@@ -1,7 +1,7 @@
 # My Very First Web Page
 Welcome!
 This project is a start on the road to learning how to code. 
-In this Project My First Web site we have learned about creting a simple multi page webpage incoperating images, hyperlinks and classes. 
+In this Project My First Web site we have learned about creting a simple multi page, webpage incoperating CSS, images, hyperlinks and classes. 
 During the development of this webpage we have started to understand the different tools associated with developing websites
 
 Cloud9, an integrated development envoirnment. Cloud9 enables us to use Git, GitHub, Javascript to name a few
